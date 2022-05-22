@@ -41,3 +41,22 @@
 	align-items: center;
 }
 
+.search form {
+	display: flex;
+	height: 48px;
+	border: 1px solid #00f;
+}
+.search {
+	display: flex;
+}
+.search input {
+	border: 0;
+	height: 100%;
+	width: 590px;
+	padding: 8px;
+	border border-radius: 3px 00 3px;
+}
+
+
+
+
