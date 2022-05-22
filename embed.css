@@ -31,3 +31,13 @@
 	}
 }
 
+.logo #menu {
+	cursor: pointer;
+	padding: 0px 6px;
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+}
+
